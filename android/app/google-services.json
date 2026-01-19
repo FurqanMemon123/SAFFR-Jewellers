@@ -1,0 +1,105 @@
+{
+  "project_info": {
+    "project_number": "479395548206",
+    "project_id": "foodapp-9213e",
+    "storage_bucket": "foodapp-9213e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:479395548206:android:96dbdc21e016281f0d23bf",
+        "android_client_info": {
+          "package_name": "com.example.cart"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "479395548206-ejg7g19u7u4rpvni8v4duvpfeshbe11r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBQQlq7txd3veBxIYU9YvrJx_Yb3XbAmgk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "479395548206-ejg7g19u7u4rpvni8v4duvpfeshbe11r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:479395548206:android:0c21161048cc9a8b0d23bf",
+        "android_client_info": {
+          "package_name": "com.example.food_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "479395548206-ejg7g19u7u4rpvni8v4duvpfeshbe11r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBQQlq7txd3veBxIYU9YvrJx_Yb3XbAmgk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "479395548206-ejg7g19u7u4rpvni8v4duvpfeshbe11r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:479395548206:android:eccf0064c15a02890d23bf",
+        "android_client_info": {
+          "package_name": "com.example.jewellery_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "479395548206-psoj89hoafcn0g2oemmuc3ogm3ugehni.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.jewellery_app",
+            "certificate_hash": "e400f79c655744ec57aaa388dd7b58adffc1bfbc"
+          }
+        },
+        {
+          "client_id": "479395548206-ejg7g19u7u4rpvni8v4duvpfeshbe11r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBQQlq7txd3veBxIYU9YvrJx_Yb3XbAmgk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "479395548206-ejg7g19u7u4rpvni8v4duvpfeshbe11r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
